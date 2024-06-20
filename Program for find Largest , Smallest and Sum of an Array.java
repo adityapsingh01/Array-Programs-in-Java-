@@ -4,8 +4,7 @@ public class Practice {
 //        Practice.max();
 //        Practice.min();
 
-
-    }
+ }
 
     public static void SumOfArray() {
         int arr[] = {1, 5, 3};
